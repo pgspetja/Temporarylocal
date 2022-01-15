@@ -4,7 +4,7 @@ author: "pgspetja"
 date: "15/01/2022"
 output: word_document
 ---
-## This is a markdownfile
+## This is a markdown file
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
